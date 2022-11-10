@@ -1,20 +1,52 @@
 {
-  "burguers": [
+  "data": [
     {
-      "id": 1,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
-      "offer": true,
-      "title": "Duplo Burguer",
-      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
-      "price": 25
+      "contact": {"datails": "Wefwefef", "phone": "Wefwef"},
+      "location": {
+        "latitude": -8.418275204419302,
+        "longitude": -37.03437205129515
+      },
+      "type": {"icon": 20, "id": 1, "name": "Plastico", "value": "plastic"}
     },
     {
-      "id": 2,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
-      "offer": true,
-      "title": "Triplo Burguer",
-      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
-      "price": 32
+      "contact": {"datails": "Erterte", "phone": "Er4t4e5tert"},
+      "location": {
+        "latitude": -8.416656246989803,
+        "longitude": -37.034113899081774
+      },
+      "type": {"icon": 22, "id": 7, "name": "Organico", "value": "organic"}
+    },
+    {
+      "contact": {"datails": "Woekfwokefko", "phone": "Lucas"},
+      "location": {
+        "latitude": -8.417804191436346,
+        "longitude": -37.03663326036664
+      },
+      "type": {"icon": 18, "id": 2, "name": "Eletronico", "value": "eletronic"}
+    },
+    {
+      "contact": {"datails": "Wefwef", "phone": "Efwef"},
+      "location": {
+        "latitude": -8.416276780443837,
+        "longitude": -37.03498206083552
+      },
+      "type": {"icon": 16, "id": 5, "name": "Papel", "value": "paper"}
+    },
+    {
+      "contact": {"datails": "Wefwef", "phone": "Wefwefw"},
+      "location": {
+        "latitude": -8.4187678543842,
+        "longitude": -37.037066761202794
+      },
+      "type": {"icon": 24, "id": 10, "name": "Lâmpadas", "value": "light"}
+    },
+    {
+      "contact": {"datails": "Wefwef", "phone": "Efwef"},
+      "location": {
+        "latitude": -8.417616396741721,
+        "longitude": -37.038007656707094
+      },
+      "type": {"icon": 18, "id": 2, "name": "Eletronico", "value": "eletronic"}
     }
   ]
 }
